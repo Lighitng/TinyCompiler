@@ -1,10 +1,3 @@
-//
-//  CGEN.h
-//  Compiler
-//
-//  Created by Administration on 16/6/5.
-//  Copyright © 2016年 Administration. All rights reserved.
-//
 /****************************************************/
 /* File: cgen.h                                     */
 /* The code generator interface to the TINY compiler*/

@@ -1,12 +1,3 @@
-//
-//  main.c
-//  Compiler
-//
-//  Created by Administration on 16/5/16.
-//  Copyright © 2016年 Administration. All rights reserved.
-//
-
-
 /****************************************************/
 /* File: main.c                                     */
 /* Main program for TINY compiler                   */

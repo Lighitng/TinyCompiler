@@ -1,11 +1,3 @@
-//
-//  CODE.c
-//  Compiler
-//
-//  Created by Administration on 16/6/5.
-//  Copyright © 2016年 Administration. All rights reserved.
-//
-
 /****************************************************/
 /* File: code.c                                     */
 /* TM Code emitting utilities                       */

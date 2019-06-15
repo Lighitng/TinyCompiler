@@ -1,11 +1,3 @@
-//
-//  UTIL.h
-//  Compiler
-//
-//  Created by Administration on 16/5/16.
-//  Copyright © 2016年 Administration. All rights reserved.
-//
-
 /****************************************************/
 /* File: util.h                                     */
 /* Utility functions for the TINY compiler          */

@@ -1,11 +1,3 @@
-//
-//  SYMTAB.c
-//  Compiler
-//
-//  Created by Administration on 16/5/16.
-//  Copyright © 2016年 Administration. All rights reserved.
-//
-
 /****************************************************/
 /* File: symtab.c                                   */
 /* Symbol table implementation for the TINY compiler*/
